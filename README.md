@@ -20,5 +20,5 @@ I am a dedicated and motivated individual pursuing a degree in **Information Tec
    *Technologies:* React.js, Node.js, Express
 
    ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agila_A&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agila-A&layout=compact)
 
