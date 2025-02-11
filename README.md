@@ -7,6 +7,7 @@ I am a dedicated and motivated individual pursuing a degree in **Information Tec
 - 🌱 Currently learning new technologies like React, tailwind css, AI etc.  
 - ⚡ Fun Fact: I love working on creative UI/UX projects and I'm passionate about it!
 
+![Profile Views](https://komarev.com/ghpvc/?username=Agila-A)
 
 
 ## 🎓Education
