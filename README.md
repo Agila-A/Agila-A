@@ -39,12 +39,15 @@ I’m currently working on a AI-fact-checker application and Carbon emission cal
 
 ### Mini-Projects  
  
-- **Responsive Blog Post with CRUD Operations**
+1. **Responsive Blog Post with CRUD Operations**
    *Technologies:* React.js, Node.js, Express, MySQL  
    
-3. **Personal Portfolio**  
+2. **Personal Portfolio**  
    *Technologies:* React.js, Node.js, Express
-
+  
+3. **To-Do-List**
+   *Technologies:* React.js, HTML, CSS
+   
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agila-A&layout=compact)
 
