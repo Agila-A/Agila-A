@@ -47,6 +47,9 @@ I’m currently working on a AI-fact-checker application and Carbon emission cal
   
 3. **To-Do-List**
    *Technologies:* React.js, HTML, CSS
+
+4. **E-commerce product listing**
+   *Technologies:* Reqact.js, HTML, CSS
    
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agila-A&layout=compact)
