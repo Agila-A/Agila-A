@@ -1,7 +1,7 @@
 
 
 # 👩‍💻 About me
-I am a dedicated and motivated individual pursuing a degree in **Information Technology** at RMK Engineering College (2023–2027). With hands-on experience in **web development** and **full-stack development**, I have a strong passion for **UI/UX design principles**. My internships and projects have allowed me to strengthen my skills in modern web technologies, including **React.js**, **Node.js**, **SQL** etc. I thrive in collaborative environments and excel in problem-solving and critical thinking.
+I am a dedicated and motivated individual pursuing a degree in **Information Technology** at RMK Engineering College (2023–2027). With hands-on experience in **web development** and **full-stack development**, I have a strong passion for **UI/UX design principles**. My internships and projects have allowed me to strengthen my skills in modern web technologies, including **React.js**, **Node.js**, **MySQL** etc. 
  
 - 👩‍💻 I’m currently working on a AI-fact-checker application and Carbon emission calculator with added features.
 - 🌱 Currently learning new technologies like React, tailwind css, AI etc.  
