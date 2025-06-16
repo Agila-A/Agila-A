@@ -83,7 +83,7 @@ A simple and intuitive app to estimate an individual’s or household’s carbon
 
 ## 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- 💼 [LinkedIn](https://www.linkedin.com/in/agilaa13)
 - 📫 Email: a.agila2005@gmail.com
 - 🌍 Portfolio: *(Coming Soon...)*
 
